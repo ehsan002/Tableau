@@ -1,0 +1,1 @@
+An interactive story has been created folloed by a course on Datacamp called "Introduction to Tableau". The story consists of three dashboards comparing the sales performance of different video games based on different metrices. 
